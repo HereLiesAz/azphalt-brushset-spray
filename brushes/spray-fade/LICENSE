@@ -1,0 +1,13 @@
+CC BY 4.0 (Attribution)
+
+The brush tip bitmap in this package (assets/tip.png) is used under the
+Creative Commons Attribution 4.0 International license:
+https://creativecommons.org/licenses/by/4.0/
+
+Tip artwork by David Revoy (davidrevoy.com), from the Krita 4 Extras brush preset pack (CC BY 4.0).
+Source: https://www.davidrevoy.com/article742/krita-4-extras-brush-presets-pack
+Changes made: inverted to a grayscale-alpha PNG and packaged as an azphalt
+brush asset. No other changes were made to the artwork.
+
+The manifest, packaging code, and this LICENSE file are
+Copyright (c) 2026 HereLiesAz. All rights reserved.

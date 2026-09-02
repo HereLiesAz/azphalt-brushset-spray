@@ -1,0 +1,9 @@
+{
+  "name": "@azphalt/azphalt-brush-spray-kit",
+  "version": "1.0.0",
+  "description": "4 azphalt brush packages: Fat Cap, Skinny Cap, Fade, Halo.",
+  "private": false,
+  "scripts": {
+    "build": "node build.js"
+  }
+}

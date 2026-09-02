@@ -1,0 +1,30 @@
+{
+  "azphalt": "0.1",
+  "id": "com.hereliesaz.azphalt.brush-spray-skinny-cap",
+  "name": "Skinny Cap",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "CC0-1.0",
+  "compat": ">=0.1",
+  "description": "A narrow spray-can cap for fine lines and tight detail work.",
+  "author": "HereLiesAz",
+  "targetApps": [
+    "com.hereliesaz.graffux"
+  ],
+  "assets": [
+    {
+      "type": "brush",
+      "path": "assets/tip.png",
+      "tags": [
+        "spray",
+        "fine",
+        "line"
+      ],
+      "params": {
+        "spacing": 0.015,
+        "roundness": 1,
+        "flowByPressure": true
+      }
+    }
+  ]
+}

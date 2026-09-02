@@ -1,0 +1,30 @@
+{
+  "azphalt": "0.1",
+  "id": "com.hereliesaz.azphalt.brush-spray-fade",
+  "name": "Fade",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "CC-BY-4.0",
+  "compat": ">=0.1",
+  "description": "A soft atomized mist that fades smoothly to nothing — for gradients and blends.",
+  "author": "HereLiesAz",
+  "targetApps": [
+    "com.hereliesaz.graffux"
+  ],
+  "assets": [
+    {
+      "type": "brush",
+      "path": "assets/tip.png",
+      "tags": [
+        "spray",
+        "gradient",
+        "mist"
+      ],
+      "params": {
+        "spacing": 0.1,
+        "roundness": 1,
+        "flowByPressure": true
+      }
+    }
+  ]
+}
